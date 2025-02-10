@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282429748801",
+    "project_id": "sereni-tech",
+    "storage_bucket": "sereni-tech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282429748801:android:7c143e67ad2131c002b8c0",
+        "android_client_info": {
+          "package_name": "com.example.sereni_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtTvH8ssvLQssb22VEegzXR7-vInTO4uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

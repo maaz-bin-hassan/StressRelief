@@ -1,0 +1,34 @@
+name: stress_relief_app
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.3.3
+  provider: ^6.0.5
+  just_audio: ^0.9.35
+  just_audio_background: ^0.0.1-beta.10
+  youtube_player_flutter: ^9.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/audio/calm_breath.mp3
+    - assets/audio/mindful_joy.mp3
+    - assets/audio/light_in_darkness.mp3
+    - assets/audio/gratitude.mp3
+    - assets/images/meditation_icon.png
+    - assets/images/logo.png
